@@ -1,7 +1,7 @@
 ## Setup
 - https://serverless.com/framework/docs/providers/aws/guide/quick-start/ (just review, don't do)
 - https://serverless.com/framework/docs/providers/aws/guide/credentials/ (use export commands)
-- https://serverless.com/blog/serverless-express-rest-api/
+- https://serverless.com/blog/serverless-express-rest-api/ (use this to set up)
 
 - v0.1
   - Basic setup, very easy.
