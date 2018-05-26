@@ -27,3 +27,7 @@
         tableName: usersTestTable
       ```
   - Offline DB access
+- v0.5
+  - Cleaner index.js by splitting out endpoints into directory
+    - A little tricky because I was used to v8+, not v6.10 which is the highest it goes
+  - TODO: Authentication (JWT? Auth0?)
